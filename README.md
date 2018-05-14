@@ -3,9 +3,11 @@
 
 ## Overview
 
-A simple fun game built using [Affectiva](http://www.affectiva.com/)’s Emotion-as-a-Service API. 
-An Emoji is shown on the screen and one has to mimic the emoji to score points. Happy Mimicing! 
+A simple fun game built using [Affectiva](http://www.affectiva.com/)’s Emotion-as-a-Service API.
+An Emoji is shown on the screen and one has to mimic the emoji to score points. Happy Mimicing!
 
+## Demo
+![Picture](demo.png)
 
 ## Affectiva
 
